@@ -1,0 +1,1 @@
+I am writing thing message while i am in Memphis International airport, I am returning from Sanford, Florida. Now I'm waiting for the bus, and will be leaving in approximately one hour and 15 minutes.
