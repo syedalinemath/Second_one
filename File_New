@@ -1,1 +1,104 @@
 This is a file created in a child branch, an it is being tested.
+
+Assignment-1
+Introduction to Data Science
+https://cognitiveclass.ai/courses/what-is-big-data/   (Big Data)
+https://cognitiveclass.ai/courses/data-science-101/   (Data Science)
+https://cognitiveclass.ai/courses/data-science-methodology-2/   (Data Science Methodology)
+https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2  (Data Science Tools)
+
+Assignment-2
+Practicing Data Basics
+https://cognitiveclass.ai/courses/learn-sql-relational-databases/  (SQL and Relational Databases 101)
+https://cognitiveclass.ai/courses/introduction-nosql-dbaas/  (NoSQL and DBaaS 101)
+
+Assignment-3
+Statistics and Visualizations
+https://cognitiveclass.ai/courses/statistics-101/ (Statistics 101)
+https://cognitiveclass.ai/courses/data-visualization-python (Data Visualization with Python)
+https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DV0151EN+v1 (Data Visualization with R)
+
+Assignment-4
+Practice with R
+https://cognitiveclass.ai/courses/r-101/ (R for Data Science)
+https://cognitiveclass.ai/courses/course-v1:CognitiveClass+DV0151EN+v1 (Data Visualization with R)
+https://cognitiveclass.ai/courses/machine-learning-r/ (Machine Learning with R)
+https://cognitiveclass.ai/courses/using-r-with-databases/ (Using R with Databases)
+https://cognitiveclass.ai/courses/course-v1:CognitiveClass+RP0105EN+v1 (Analyzing Big Data in R using Apache Spark)
+
+Assignment-5
+Practice with Python
+https://cognitiveclass.ai/courses/python-for-data-science/ (Python for Data Science)
+https://cognitiveclass.ai/courses/data-visualization-python (Data Visualization with Python)
+https://cognitiveclass.ai/courses/data-analysis-python/ (Data Analysis with Python)
+https://cognitiveclass.ai/courses/machine-learning-with-python/ (Machine Learning with Python)
+
+Assignment-6
+Prediction Practice
+https://cognitiveclass.ai/courses/predictive-modeling-fundamentals (Predictive Modeling Fundamentals I)
+https://cognitiveclass.ai/courses/course-v1:FiresideAnalyticsInc+ML0103EN+v2 (Analytics & Regression)
+https://cognitiveclass.ai/courses/mathematical-optimization-for-business-problems/ (Mathematical Optimization for Business Problems)
+https://cognitiveclass.ai/courses/spark-mllib (Spark MLlIB)
+
+Assignment-7
+Text Applications
+https://cognitiveclass.ai/courses/systemt (Text Analytics 101)
+https://cognitiveclass.ai/courses/chatbot-course (Build your own ChatBot)
+https://cognitiveclass.ai/courses/build-swift-mobile-apps-with-watson-ai-services/ (Build Swift Mobile Apps with Watson AI Services)
+https://cognitiveclass.ai/courses/node-red-basics-to-bots (Node-RED: basics to bots)
+https://cognitiveclass.ai/courses/robots-are-coming (Robots are coming! Build IoT apps with Watson, Swift, and Node-RED)
+https://cognitiveclass.ai/courses/build-robots-with-tjbot (Building Robots with TJBot)
+
+Assignment-8
+Hadoop 101
+https://cognitiveclass.ai/courses/introduction-to-hadoop (Hadoop 101)
+
+Assignment-9
+MapReduce and YARN
+https://cognitiveclass.ai/courses/mapreduce-and-yarn/ (MapReduce and YARN)
+
+Assignment-10
+Spark - Another Option for Getting Big Data Jobs Done
+https://cognitiveclass.ai/courses/what-is-spark/ (Spark Fundamentals I)
+https://cognitiveclass.ai/courses/spark-rdd/ (Spark Fundamentals II)
+https://cognitiveclass.ai/courses/spark-mllib (Spark MLlIB)
+https://cognitiveclass.ai/courses/spark-graphx/ (Exploring Spark's GraphX)
+https://cognitiveclass.ai/courses/course-v1:CognitiveClass+RP0105EN+v1 (Analyzing Big Data in R using Apache Spark)
+https://cognitiveclass.ai/courses/spark-overview-scala-analytics/ (Spark Overview for Scala Analytics)
+https://cognitiveclass.ai/courses/introduction-to-scala (Scala 101)
+https://cognitiveclass.ai/courses/data-science-scala/ (Data Science with Scala)
+
+Assignment-11
+Hadoop EcoSystem
+https://cognitiveclass.ai/courses/flume-sqoop-moving-data-into-hadoop/ (Moving Data into Hadoop)
+https://cognitiveclass.ai/courses/introduction-to-pig/ (Apache Pig 101)
+https://cognitiveclass.ai/courses/course-v1:IBM+BD0141EN+v1 (Accessing Hadoop Data Using Hive)
+https://cognitiveclass.ai/courses/simplyfingdatapipelines (Simplifying data pipelines with Apache Kafka)
+https://cognitiveclass.ai/courses/course-v1:BDU+BD0135EN+v1 (Developing Distributed Applications Using ZooKeeper)
+https://cognitiveclass.ai/courses/course-v1:BDU+BD0133EN+v1 (Controlling Hadoop Jobs using Oozie)
+https://cognitiveclass.ai/courses/solr (Solr 101)
+
+Assignment-12
+IBM Cloud Development
+
+https://cognitiveclass.ai/courses/introduction-to-cloud (Introduction to Cloud)
+https://cognitiveclass.ai/courses/ibm-cloud-essentials (IBM Cloud Essentials V3)
+https://cognitiveclass.ai/courses/serverless-computing-using-cloud-functions-developer-1 (Serverless Computing using Cloud Functions - Developer I)
+https://cognitiveclass.ai/courses/docker-essentials/ (Docker Essentials: A Developer Introduction)
+https://cognitiveclass.ai/courses/kubernetes-course (Introduction to Containers, Kubernetes, and OpenShift V2)
+https://cognitiveclass.ai/courses/kubernetes-operators-intermediate (Kubernetes Operators Intermediate)
+https://cognitiveclass.ai/courses/course-v1:IBM+CO0302EN+v1 (Kubernetes Operators Advanced)
+https://cognitiveclass.ai/courses/scalable-web-applications-on-kubernetes (Scalable web applications on Kubernetes)
+https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applications (Building Cloud Native and Multicloud Applications)
+https://cognitiveclass.ai/courses/java-ee-applications (Mordernizing JAVA EE Applications)- COURSE NOT FOUND
+https://cognitiveclass.ai/courses/apply-end-to-end-security-to-a-cloud-application (Apply end to end security to a cloud application)
+https://cognitiveclass.ai/courses/get-started-with-microservices-istio-and-ibm-cloud-container-service (Getting started with Microservices with Istio and IBM Cloud Kubernetes Service)
+https://cognitiveclass.ai/courses/beyond-the-basics-istio-and-ibm-cloud-kubernetes-service (Beyond the Basics: Istio and IBM Cloud Kubernetes Service)
+https://cognitiveclass.ai/courses/cloud-satellite (An Introduction to IBM Cloud Satellite)
+
+Blockchain
+https://cognitiveclass.ai/courses/blockchain-iot-node-red-food-network (Build an IoT Blockchain Network for a Supply Chain)
+
+Assignment-13
+Big Data and Privacy
+https://cognitiveclass.ai/courses/data-privacy/(Data Privacy Fundamentals)
